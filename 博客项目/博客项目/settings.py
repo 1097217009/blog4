@@ -69,7 +69,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'blogproject.wsgi.application'
 
-# ALLOWED_HOSTS = ['127.0.0.1','localhost','.wugeblog.fun']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.wugeblog.fun']
 
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
